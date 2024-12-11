@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Fale Loki Koki",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#860b4f",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Fale Loki Koki",
       "url": "mailto:hi@mintlify.com"
     }
   ],
